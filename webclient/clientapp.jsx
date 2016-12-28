@@ -5,5 +5,5 @@ import Home from './views/home';
 
 ReactDOM.render(
 	<Home/>,
-  	document.getElementById('mountapp')
+  	document.getElementById('authapp')
 );
