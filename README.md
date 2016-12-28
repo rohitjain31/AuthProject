@@ -6,7 +6,7 @@ Supports
 - Material UI
 - Hot Module replacement
 - React Hotloading (persists state)
-- Recommended folder structure for a react.js webapp project 
+- Recommended folder structure for a react.js webapp project
 
 ### How to start running
 Run these commands
@@ -17,4 +17,4 @@ To install the required dependencies
 
 To run the app
 
-	$ npm run serv
+	$ npm run serve
